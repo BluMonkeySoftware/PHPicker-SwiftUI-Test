@@ -2,7 +2,7 @@
 //  PHPicker_SwiftUI_TestApp.swift
 //  Shared
 //
-//  Created by Blu Monkey on 6/24/20.
+//  Created by Steve Marcotte on 6/24/20.
 //
 
 import SwiftUI
